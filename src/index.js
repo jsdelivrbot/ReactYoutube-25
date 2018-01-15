@@ -9,7 +9,6 @@ const App = function(){
     return(
     <div>hi</div>
     );
-    
 }
-
+//test
 ReactDOM.render(<App />, document.querySelector('.container'));
